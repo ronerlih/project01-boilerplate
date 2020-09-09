@@ -31,4 +31,6 @@ Either recreate from sratch, copy the files, fork, or clone the repo.
 
 - git branching: https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows
 
+- 🌟Create and protect repo instructions: https://columbia.bootcampcontent.com/columbia-bootcamp/cu-nyc-fsf-pt-07-2020-u-c/tree/master/07-Project-1/01-Activities
+
 # 🏂 Good luck!! 🏂

@@ -9,7 +9,8 @@ A boilerplate suggestion for project01
 Either recreate from sratch, copy the files, fork, or clone the repo.
 
 #### visual
-[Demo]()
+[Demo](https://ronerlih.github.io/project01-boilerplate/)
+
 <img src="assets/images/mockup.png" width="200" style="border:1px solid black">
 
 #### Wireframe
